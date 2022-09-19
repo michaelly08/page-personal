@@ -2551,6 +2551,7 @@ section{
     #role-txt {
         height: 28px;
         font-size: 20px;
+        margin: 0px;
     }
     .dynamic-txts li{
         height: 28px;
