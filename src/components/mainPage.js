@@ -82,8 +82,8 @@ function Header() {
                             
                             <div className="social-container">
                                 <a id="contact-me-button" href="#Contact-Section" className="btn">Contact Me<i className='bx bx-right-arrow-alt'></i></a>
-                                <a href="#" className="social-button btn"><i className='bx bxl-linkedin'></i></a>
-                                <a href="#" className="social-button btn"><i className='bx bxl-github'></i></a>
+                                <a href="https://www.linkedin.com/in/michael-ly-738735248/" className="social-button btn" target="_blank"><i className='bx bxl-linkedin'></i></a>
+                                <a href="https://github.com/michaelly08" className="social-button btn" target="_blank"><i className='bx bxl-github'></i></a>
                             </div>
                         </div>
                         <div className="about-img">
