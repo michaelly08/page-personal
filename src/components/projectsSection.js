@@ -47,26 +47,7 @@ function ProjectSection() {
                                 modules={[Autoplay, Pagination, Navigation]}
                                 className="mySwiper"
                             >
-                            <SwiperSlide className="swiper-slide">
-                                <div className="tiles-box">
-                                    <div className="tiles">
-                                        <div className="tiles-img">
-                                            <img src={project1Img}></img>
-                                        </div>
-                                        <div className="tiles-texts">
-                                            <h1 className="project-title">E-Commerce Store</h1>
-                                            <p>Built with Next.js, Redux, Stripe, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend. Users are able to register, sign in and add items to cart and checkout.</p>
-                                            <div className="tiles-language">
-                                                <div className="tiles-buttons">
-                                                    <a href="https://michaelly-ecom.netlify.app/" target="_blank">Demo</a>
-                                                    <a href="https://github.com/michaelly08/ecom-store" target="_blank">Source</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </SwiperSlide>
+                            
 
 
 
@@ -125,6 +106,26 @@ function ProjectSection() {
                                                 <div className="tiles-buttons">
                                                     <a href="https://michaelly-coin.netlify.app" target="_blank">Demo</a>
                                                     <a href="https://github.com/michaelly08/coin-checker" target="_blank">Source</a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </SwiperSlide>
+                            <SwiperSlide className="swiper-slide">
+                                <div className="tiles-box">
+                                    <div className="tiles">
+                                        <div className="tiles-img">
+                                            <img src={project1Img}></img>
+                                        </div>
+                                        <div className="tiles-texts">
+                                            <h1 className="project-title">E-Commerce Store</h1>
+                                            <p>Built with Next.js, Redux, Stripe, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend. Users are able to register, sign in and add items to cart and checkout.</p>
+                                            <div className="tiles-language">
+                                                <div className="tiles-buttons">
+                                                    <a href="https://michaelly-ecom.netlify.app/" target="_blank">Demo</a>
+                                                    <a href="https://github.com/michaelly08/ecom-store" target="_blank">Source</a>
                                                 </div>
                                             </div>
 
