@@ -95,7 +95,7 @@ function ContactSection() {
             <div className="curve-skills"></div>
             <div className="skills-body">
                 <div>
-                    <h1 id="skills-intro">Contact Me</h1>
+                    <h1 id="skills-intro">CONTACT ME</h1>
                 </div>
             </div>
             <div className="contact-container" data-aos="fade-right">
