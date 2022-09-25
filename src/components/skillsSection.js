@@ -88,8 +88,8 @@ function SkillsSection() {
                                     data-aos-duration="500">
                                     <div className="skill-check"><i className='bx bx-badge-check'></i></div>
                                     <div>
-                                        <h1>Redux</h1>
-                                        <p>Intermediate</p>
+                                        <h1>React</h1>
+                                        <p>Experienced</p>
                                     </div>
                                 </div>
                                 <div className="skill-set"
@@ -98,8 +98,8 @@ function SkillsSection() {
                                     data-aos-duration="500">
                                     <div className="skill-check"><i className='bx bx-badge-check'></i></div>
                                     <div>
-                                        <h1>React</h1>
-                                        <p>Experienced</p>
+                                        <h1>Redux</h1>
+                                        <p>Intermediate</p>
                                     </div>
                                 </div>
                             </div>
