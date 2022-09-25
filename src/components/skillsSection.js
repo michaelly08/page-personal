@@ -57,7 +57,7 @@ function SkillsSection() {
                                     <div className="skill-check"><i className='bx bx-badge-check'></i></div>
                                     <div>
                                         <h1>JavaScript</h1>
-                                        <p>Intermediate</p>
+                                        <p>Experienced</p>
                                     </div>
                                 </div>
                                 <div className="skill-set"
