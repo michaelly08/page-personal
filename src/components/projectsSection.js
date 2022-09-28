@@ -121,7 +121,7 @@ function ProjectSection() {
                                         </div>
                                         <div className="tiles-texts">
                                             <h1 className="project-title">E-Commerce Store</h1>
-                                            <p>Built with Next.js, Redux, Stripe, Material Ui for the frontend and Node Js, Express, MongoDB, JWT for the backend. Users are able to register, sign in and add items to cart and checkout.</p>
+                                            <p>Built with Next.js, Redux, Stripe, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend. Users are able to register, sign in and add items to cart and checkout.</p>
                                             <div className="tiles-language">
                                                 <div className="tiles-buttons">
                                                     <a href="https://michaelly-ecom.netlify.app/" target="_blank">Demo</a>
