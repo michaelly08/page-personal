@@ -101,7 +101,7 @@ function ProjectSection() {
                                         </div>
                                         <div className="tiles-texts">
                                             <h1 className="project-title">Crypto Price Checker</h1>
-                                            <p>Built with React, API fetched with Redux. Shows the top 100 cryptocurrencies, current price and in-depth information about the coin when clicked on. Lastest news about crypto is also displayed and can be searched.</p>
+                                            <p>Built with React, API fetched with Redux. Shows the top 100 cryptocurrencies, current price and in-depth information about the coin when clicked on. Latest news about crypto is also displayed and can be searched.</p>
                                             <div className="tiles-language">
                                                 <div className="tiles-buttons">
                                                     <a href="https://michaelly-coin.netlify.app" target="_blank">Demo</a>
