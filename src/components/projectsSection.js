@@ -81,7 +81,7 @@ function ProjectSection() {
                                         </div>
                                         <div className="tiles-texts">
                                             <h1 className="project-title">Media Streaming Site</h1>
-                                            <p>Built with React, API fetched from RapidApi. Users are able to search for videos, either by text or category. Play the video when clicked on and similar videos will also be suggested.</p>
+                                            <p>Built with React, API fetched from RapidAPI. Users are able to search for videos, either by text or category. Play the video when clicked on and similar videos will also be suggested.</p>
                                             <div className="tiles-language">
                                                 <div className="tiles-buttons">
                                                     <a href="https://michaelly-yt.netlify.app" target="_blank">Demo</a>
