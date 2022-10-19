@@ -11,7 +11,7 @@ function ServiceSection() {
         <section className="projects-section" id="Projects">
                 <div className="curve"></div>
                 <div>
-                    <h1 id="project-intro">MY SERVICES</h1>
+                    <h1 id="project-intro">MY SKILLS</h1>
                 </div>
                 <div>
                     <div className="services-container-container">
